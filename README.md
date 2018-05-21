@@ -1,4 +1,4 @@
-# REST API
+# Flask REST API
 
 ## Description
 
