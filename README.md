@@ -1,7 +1,5 @@
 # Flask REST API
 
-## Description
-
 Basic REST API for a Store implemented in Flask.
 
 ## USAGE
