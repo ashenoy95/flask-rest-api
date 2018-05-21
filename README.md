@@ -1,6 +1,6 @@
 # Flask REST API
 
-Basic REST API for a Store implemented using Flask.
+Basic REST API for a Store implemented using Flask with Heroku deployment.
 
 ## USAGE
 
