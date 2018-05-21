@@ -12,4 +12,5 @@ python app.py
 
 * Flask
 * Flask-RESTful
+* Flask-JWT
 * SQLAlchemy
